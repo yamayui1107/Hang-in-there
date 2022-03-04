@@ -3,7 +3,7 @@
 
 ## 概要
 自作ゲーム公開用リポジトリになります  
-プレイ用URL : https://yamayui1107.github.io/  
+プレイ用URL : https://yamayui1107.github.io/Hang-in-there/
   * 自作ので3Dモデリングに挑戦しました
   * オンラインプレイに対応しており最大4人まで同時にプレイが可能です
 <br>  
